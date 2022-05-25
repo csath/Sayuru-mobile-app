@@ -1,0 +1,505 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sayuru"
+4    android:versionCode="1"
+5    android:versionName="1.0.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:5:5-78
+12-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:6:5-80
+13-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+14-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:7:5-84
+14-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:7:22-82
+15    <uses-permission android:name="com.android.vending.BILLING" />
+15-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:8:5-67
+15-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:8:22-64
+16    <uses-permission android:name="android.hardware.location" />
+16-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-65
+16-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:29:22-62
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-68
+17-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:31:22-65
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-79
+18-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:32:22-76
+19    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+19-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-89
+19-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:35:22-86
+20    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+20-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-94
+20-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:36:22-91
+21    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+21-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-81
+21-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:37:22-78
+22    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+22-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-77
+22-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:38:22-74
+23    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+23-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-78
+23-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:39:22-75
+24    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+24-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:40:5-80
+24-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:40:22-77
+25    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+25-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-77
+25-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:41:22-74
+26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+26-->[:react-native-community_netinfo] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+26-->[:react-native-community_netinfo] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+27
+28    <uses-feature
+28-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:9:5-11:35
+29        android:glEsVersion="0x00020000"
+29-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:10:9-41
+30        android:required="true" />
+30-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:11:9-32
+31    <uses-feature
+31-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:12:5-14:36
+32        android:name="android.hardware.wifi"
+32-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:13:9-45
+33        android:required="false" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+33-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:14:9-33
+34    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+34-->[com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
+34-->[com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:26:22-79
+35
+36    <application
+36-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:10:5-31:19
+37        android:name="com.sayuru.MainApplication"
+37-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:11:7-38
+38        android:allowBackup="false"
+38-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:15:7-34
+39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+39-->[androidx.core:core:1.3.2] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5a6e558f1073551a8fa951dfba811f8c/core-1.3.2/AndroidManifest.xml:24:18-86
+40        android:icon="@mipmap/ic_launcher"
+40-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:13:7-41
+41        android:label="@string/app_name"
+41-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:12:7-39
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:14:7-52
+43        android:theme="@style/AppTheme"
+43-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:16:7-38
+44        android:usesCleartextTraffic="true" >
+44-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:17:7-42
+45        <activity
+45-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:18:7-29:18
+46            android:name="com.sayuru.MainActivity"
+46-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:19:9-37
+47            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+47-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:21:9-86
+48            android:label="@string/app_name"
+48-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:20:9-41
+49            android:launchMode="singleTask"
+49-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:22:9-40
+50            android:screenOrientation="portrait"
+50-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:23:9-45
+51            android:windowSoftInputMode="adjustResize" >
+51-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:24:9-51
+52            <intent-filter>
+52-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:25:9-28:25
+53                <action android:name="android.intent.action.MAIN" />
+53-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:26:13-65
+53-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:26:21-62
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:27:13-73
+55-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:27:23-70
+56            </intent-filter>
+57        </activity>
+58        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+58-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:30:7-84
+58-->/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:30:17-81
+59
+60        <service
+60-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:44:9-55:19
+61            android:name="com.marianhello.bgloc.sync.SyncService"
+61-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-66
+62            android:exported="true"
+62-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-36
+63            android:process=":sync" >
+63-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:47:13-36
+64            <intent-filter>
+64-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:29
+65                <action android:name="android.content.SyncAdapter" />
+65-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-70
+65-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:49:25-67
+66            </intent-filter>
+67
+68            <meta-data
+68-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-54:55
+69                android:name="android.content.SyncAdapter"
+69-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:53:17-59
+70                android:resource="@xml/syncadapter" />
+70-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:54:17-52
+71        </service>
+72        <service android:name="com.marianhello.bgloc.sync.AuthenticatorService" >
+72-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-64:19
+72-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:56:18-80
+73            <intent-filter>
+73-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-59:29
+74                <action android:name="android.accounts.AccountAuthenticator" />
+74-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:58:17-80
+74-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:58:25-77
+75            </intent-filter>
+76
+77            <meta-data
+77-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-63:57
+78                android:name="android.accounts.AccountAuthenticator"
+78-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:62:17-69
+79                android:resource="@xml/authenticator" />
+79-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:63:17-54
+80        </service>
+81
+82        <provider
+82-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-70:39
+83            android:name="com.marianhello.bgloc.data.provider.LocationContentProvider"
+83-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-87
+84            android:authorities="@string/mauron85_bgloc_content_authority"
+84-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-75
+85            android:exported="false"
+85-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-37
+86            android:syncable="true" />
+86-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:70:13-36
+87
+88        <service
+88-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:72:9-75:40
+89            android:name="com.marianhello.bgloc.service.LocationServiceImpl"
+89-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:73:13-77
+90            android:enabled="true"
+90-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-35
+91            android:exported="false" />
+91-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:75:13-37
+92        <service
+92-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:76:9-79:40
+93            android:name="com.marianhello.bgloc.react.headless.HeadlessService"
+93-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:77:13-80
+94            android:enabled="true"
+94-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:78:13-35
+95            android:exported="false" />
+95-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:79:13-37
+96
+97        <receiver
+97-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:81:9-88:20
+98            android:name="com.marianhello.bgloc.BootCompletedReceiver"
+98-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:82:13-71
+99            android:enabled="true"
+99-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:83:13-35
+100            android:exported="true" >
+100-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:84:13-36
+101            <intent-filter>
+101-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:85:13-87:29
+102                <action android:name="android.intent.action.BOOT_COMPLETED" />
+102-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:86:17-79
+102-->[:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:86:25-76
+103            </intent-filter>
+104        </receiver>
+105
+106        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+106-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-111
+106-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-108
+107        <service
+107-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:9-23:19
+108            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+108-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-95
+109            android:exported="false" >
+109-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:13-37
+110            <intent-filter>
+110-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-22:29
+111                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+111-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:17-78
+111-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:25-75
+112            </intent-filter>
+113        </service>
+114
+115        <receiver
+115-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-32:20
+116            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+116-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:13-96
+117            android:exported="true"
+117-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:13-36
+118            android:permission="com.google.android.c2dm.permission.SEND" >
+118-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:28:13-73
+119            <intent-filter>
+119-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-31:29
+120                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+120-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:17-81
+120-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:25-78
+121            </intent-filter>
+122        </receiver>
+123
+124        <meta-data
+124-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-36:36
+125            android:name="firebase_messaging_auto_init_enabled"
+125-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-64
+126            android:value="true" />
+126-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-33
+127        <meta-data
+127-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-39:45
+128            android:name="com.google.firebase.messaging.default_notification_channel_id"
+128-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-89
+129            android:value="high-priority" />
+129-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-42
+130        <meta-data
+130-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:9-42:47
+131            android:name="com.google.firebase.messaging.default_notification_color"
+131-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-84
+132            android:resource="@color/white" />
+132-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-44
+133
+134        <provider
+134-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+135            android:name="com.imagepicker.ImagePickerProvider"
+135-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-63
+136            android:authorities="com.sayuru.imagepickerprovider"
+136-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-71
+137            android:exported="false"
+137-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+138            android:grantUriPermissions="true" >
+138-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+139            <meta-data
+139-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:70
+140                android:name="android.support.FILE_PROVIDER_PATHS"
+140-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+141                android:resource="@xml/imagepicker_provider_paths" />
+141-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-67
+142        </provider>
+143        <provider
+143-->[:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+144            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+144-->[:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+145            android:authorities="com.sayuru.fileprovider"
+145-->[:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+146            android:exported="false"
+146-->[:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+147            android:grantUriPermissions="true" >
+147-->[:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+148            <meta-data
+148-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:70
+149                android:name="android.support.FILE_PROVIDER_PATHS"
+149-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+150                android:resource="@xml/file_provider_paths" />
+150-->[:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-67
+151        </provider>
+152        <provider
+152-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:18:9-22:39
+153            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
+153-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:19:13-93
+154            android:authorities="com.sayuru.mapboxtelemetryinitprovider"
+154-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:20:13-79
+155            android:exported="false"
+155-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:21:13-37
+156            android:initOrder="100" />
+156-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:22:13-36
+157
+158        <service
+158-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:24:9-26:72
+159            android:name="com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService"
+159-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:25:13-93
+160            android:permission="android.permission.BIND_JOB_SERVICE" />
+160-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:26:13-69
+161        <!--
+162             FirebaseMessagingService performs security checks at runtime,
+163             but set to not exported to explicitly avoid allowing another app to call it.
+164        -->
+165        <service
+165-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
+166            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+166-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
+167            android:directBootAware="true"
+167-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
+168            android:exported="false" >
+168-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
+169            <intent-filter android:priority="-500" >
+169-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-22:29
+170                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+170-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:17-78
+170-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:25-75
+171            </intent-filter>
+172        </service>
+173        <service
+173-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+174            android:name="com.google.firebase.components.ComponentDiscoveryService"
+174-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:37:13-84
+175            android:directBootAware="true"
+175-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+176            android:exported="false" >
+176-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:38:13-37
+177            <meta-data
+177-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
+178                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+178-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
+179                android:value="com.google.firebase.components.ComponentRegistrar" />
+179-->[com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
+180            <meta-data
+180-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+181                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+181-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+182                android:value="com.google.firebase.components.ComponentRegistrar" />
+182-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+183            <meta-data
+183-->[com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
+184                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+184-->[com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
+185                android:value="com.google.firebase.components.ComponentRegistrar" />
+185-->[com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
+186            <meta-data
+186-->[com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+187                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+187-->[com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+188                android:value="com.google.firebase.components.ComponentRegistrar" />
+188-->[com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+189            <!--
+190                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+191                clients to use it as well, by defining this registrar in their own core/common library.
+192            -->
+193            <meta-data
+193-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+194                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+194-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+195                android:value="com.google.firebase.components.ComponentRegistrar" />
+195-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+196        </service>
+197        <service
+197-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+198            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+198-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+199            android:exported="false" >
+199-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+200            <meta-data
+200-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+201                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+201-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+202                android:value="cct" />
+202-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+203        </service>
+204        <service
+204-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+205            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+205-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+206            android:exported="false"
+206-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+207            android:permission="android.permission.BIND_JOB_SERVICE" >
+207-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+208        </service>
+209
+210        <receiver
+210-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+211            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+211-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+212            android:exported="false" />
+212-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+213
+214        <meta-data
+214-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+215            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+215-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+216            android:value="GlideModule" />
+216-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+217
+218        <receiver
+218-->[com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
+219            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+219-->[com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
+220            android:exported="true"
+220-->[com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
+221            android:permission="com.google.android.c2dm.permission.SEND" >
+221-->[com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
+222            <intent-filter>
+222-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-31:29
+223                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+223-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:17-81
+223-->[:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:25-78
+224            </intent-filter>
+225        </receiver>
+226
+227        <activity
+227-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+228            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+228-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+229            android:excludeFromRecents="true"
+229-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+230            android:exported="false"
+230-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+231            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+231-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+232        <!--
+233            Service handling Google Sign-In user revocation. For apps that do not integrate with
+234            Google Sign-In, this service will never be started.
+235        -->
+236        <service
+236-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+237            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+237-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+238            android:exported="true"
+238-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+239            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+239-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+240            android:visibleToInstantApps="true" />
+240-->[com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+241
+242        <activity
+242-->[com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+243            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+243-->[com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+244            android:exported="false"
+244-->[com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+245            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+245-->[com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+246
+247        <provider
+247-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+248            android:name="com.google.firebase.provider.FirebaseInitProvider"
+248-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+249            android:authorities="com.sayuru.firebaseinitprovider"
+249-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+250            android:directBootAware="true"
+250-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+251            android:exported="false"
+251-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+252            android:initOrder="100" />
+252-->[com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+253
+254        <meta-data
+254-->[com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+255            android:name="com.google.android.gms.version"
+255-->[com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+256            android:value="@integer/google_play_services_version" />
+256-->[com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+257        <meta-data
+257-->[com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:13:9-15:37
+258            android:name="com.google.android.play.billingclient.version"
+258-->[com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:14:13-73
+259            android:value="3.0.0" />
+259-->[com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:15:13-34
+260
+261        <activity
+261-->[com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:17:9-20:75
+262            android:name="com.android.billingclient.api.ProxyBillingActivity"
+262-->[com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:18:13-78
+263            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+263-->[com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:19:13-96
+264            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+264-->[com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:20:13-72
+265        <activity
+265-->[com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:12:9-15:59
+266            android:name="com.intentfilter.androidpermissions.PermissionsActivity"
+266-->[com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:13:13-83
+267            android:excludeFromRecents="true"
+267-->[com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:14:13-46
+268            android:theme="@style/AppTheme.Transparent" />
+268-->[com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:15:13-56
+269    </application>
+270
+271</manifest>

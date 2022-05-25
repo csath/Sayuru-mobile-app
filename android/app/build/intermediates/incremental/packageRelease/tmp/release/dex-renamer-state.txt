@@ -1,0 +1,7 @@
+#Thu Jan 27 17:11:57 IST 2022
+base.0=/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes2.dex

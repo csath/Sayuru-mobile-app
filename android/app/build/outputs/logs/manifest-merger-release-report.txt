@@ -1,0 +1,1028 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [hermes-release.aar] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/bd2b42426ac5cb84e5a5a901b448ee3d/hermes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:20:1-91:12
+MERGED from [:react-native-community_async-storage] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_checkbox] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/checkbox/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_clipboard] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-mapbox-gl_maps] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-compass-heading] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-compass-heading/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fast-image] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-geolocation-service] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-get-random-values] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-get-random-values/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-iap] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-iap/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-localization] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-version-info] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-version-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f5272f2c50224ca2e68f40b32445d974/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5005b4f11b0e46dee589fa1747f27a29/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base-support:1.3.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/98eebfdceea9df86a87a6ea3903a1607/animated-base-support-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b5931bc9bd495aa1ef59db9aecd53f95/animated-gif-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-webp:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5e0f09eb158ab0efe036b80d51785273/animated-webp-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:webpsupport:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b8526938e93a8d14478b6cf325635625/webpsupport-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fd8e650deb26d64ee2811d7205d3c42f/mapbox-android-plugin-annotation-v9-0.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/7a8bc23eaf9778a2b8c31880791a4ba9/mapbox-android-plugin-localization-v9-0.12.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d8b840458875ac4377660ba75a9431b9/mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:17:1-45:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:15:1-41:12
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:20:1-85:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/233cb2b96da0163abbb199d2803d2543/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d0a7c04af17363014a0cbcf76404feb4/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/8c1be27ef034b9b082bdd66b6db56cad/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/814e2b08ffd38a3ae97eb1463d1ad6b3/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2520d3cc5bb7beccdb5b5e59ce09a2b8/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/650672f08f4a6c4195a6cd5578988028/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/85eea4399bec0c832096b1eaf2cbc382/animated-base-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/c65f03c2595c3a48bb3e4b3982223817/animated-drawable-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/24b2b193b461deb92970f249976f02e1/drawee-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/c7455d7ac2d78a1213084c6f70096596/memory-type-native-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/604774e968c546cbe427c279c334abde/memory-type-java-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/26abeeb2356ae51c7014998d539d05d6/imagepipeline-native-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/aa86b43385de7322075690c7e7c22dc8/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/65d0101136ee84f6c05406b213e98cdd/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0bbf06a061ee6aa12e78021f2ed2f078/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32cf165799aefa568b5aed22729963ea/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/3d7ae81d8830dbca508ba8f90940ce83/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/748b8a95472f4a41e8e517b2d14a76e3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/480b2c6c5ee96705661bdf33ba70f331/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9248cf68301b394c4d01c0224c19caed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06cfbea489944606d146119aef69139a/mapbox-android-gestures-0.6.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/786930e744b29244a174e05d55116b6f/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f19be8878fe913c21b0f7c289c7b3d92/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/16c1f8b65876ae048dc6e7257a06a793/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/db4d06c375dbf9eadf604e4afd2107eb/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fca5355f0cd90f0896bbccb71c0f1faa/firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ffb58ce5e027ffe6688fc183cf6cfac5/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/eaac7c70485d5c909e14aa8281575513/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5fd471fd21784b60c78b785b67741bbd/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0b0695c873d25dab8708045d6d22b11c/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/3cdda62fdfe620e776137e20fd57d5fd/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b3a9b6e356e0c899ef287a8babd31899/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fc407d907c2ea8140540db0b1ea7ea72/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f98d469c41efcfd22a7b74cc3f20c23c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/6c886c86ea8d326b0f0b42b72e3267a9/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/12659bbe7837434c9610dce9beff2b5e/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/11b7aa0b65ad9d5a79230fb486fe5157/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32ed3c170241901650dac031cefd1c0a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0b26e97decfb9e7370b8515c825b7a20/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/88972527a15b4d1832989860f902c66a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5a6e558f1073551a8fa951dfba811f8c/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fa45b4ff1db02d3f4137ab9b38414d0c/exifinterface-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/098fb5a3b0e0e7bb59f8226d214f920a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ceaa8978e704cd8499a8923262c58b62/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/37e7addbb8d5ba1221b41e029a0a3d5c/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/28025663553d7951114986b0bae5ecc9/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a2f5fcfbf50639077568c1a20f6074b3/mapbox-android-accounts-0.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0da63107b95906a468634ce0e23e1f3b/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/6f3d2fd31552d465a9d0ccdf21c84209/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/27abddd9ff1f31eb3ceb2e45ad5ad792/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/4c41e8d852fd177447deb4191f4f1a41/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/57534bc96d8ba3dfd6dbeb480caf0181/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/bc405df8470d9e7ad521c628ec27126e/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/706a65bb545b51f9bd76dd4538d281d7/firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/45aa4ee81ec3d9f7ab5b5012a0a0e22c/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ed72430cdf9f05f500336a908b1f1d75/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/91d106573dd21b4b404ae16e8656ac29/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/eae43307df8a7945139195c16a2d39b0/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d6f7aade6f887b7e41d053850d1a09fa/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a54e2b10f4b30ad9708bf90c52c6ee1a/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a3e2c7e374c613449cd2aeb3ec1d8e09/memory-type-ashmem-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/c38a6d0e7244f472563faef4b5b5465b/imagepipeline-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/58b9164c02124451e29e533193177619/imagepipeline-base-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d0edc340d01c292fb168e1a9ea23a1c9/jetified-fbcore-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9de7e9a84dc2230b522040a652250d9f/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:2:1-23:12
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9a6ce1a402f7425bf58501c1d4f589ab/logback-android-1.1.1-9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1de5da52493973c2be6dbe05bef65263/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b54c8105986836834eaa78d8bf505052/apktool-lib-1.4.4-5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:ui-common:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ff1dfe6241e4816efb5087a59070cc15/ui-common-2.1.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-67
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-67
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-mapbox-gl_maps] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-mapbox-gl_maps] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-79
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-79
+MERGED from [:react-native-mapbox-gl_maps] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-mapbox-gl_maps] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:19:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:19:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:7:22-82
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:10:5-67
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:10:5-31:19
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:43:5-89:19
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:43:5-89:19
+MERGED from [:react-native-community_datetimepicker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f5272f2c50224ca2e68f40b32445d974/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f5272f2c50224ca2e68f40b32445d974/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:17:5-27:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-83:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-83:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/233cb2b96da0163abbb199d2803d2543/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/233cb2b96da0163abbb199d2803d2543/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/aa86b43385de7322075690c7e7c22dc8/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/aa86b43385de7322075690c7e7c22dc8/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0bbf06a061ee6aa12e78021f2ed2f078/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0bbf06a061ee6aa12e78021f2ed2f078/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/480b2c6c5ee96705661bdf33ba70f331/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/480b2c6c5ee96705661bdf33ba70f331/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/786930e744b29244a174e05d55116b6f/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/786930e744b29244a174e05d55116b6f/play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/db4d06c375dbf9eadf604e4afd2107eb/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/db4d06c375dbf9eadf604e4afd2107eb/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ffb58ce5e027ffe6688fc183cf6cfac5/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ffb58ce5e027ffe6688fc183cf6cfac5/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/eaac7c70485d5c909e14aa8281575513/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/eaac7c70485d5c909e14aa8281575513/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5fd471fd21784b60c78b785b67741bbd/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5fd471fd21784b60c78b785b67741bbd/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5a6e558f1073551a8fa951dfba811f8c/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5a6e558f1073551a8fa951dfba811f8c/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/28025663553d7951114986b0bae5ecc9/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/28025663553d7951114986b0bae5ecc9/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0da63107b95906a468634ce0e23e1f3b/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0da63107b95906a468634ce0e23e1f3b/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:12:5-21:19
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:12:5-21:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:11:5-16:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1de5da52493973c2be6dbe05bef65263/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1de5da52493973c2be6dbe05bef65263/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5a6e558f1073551a8fa951dfba811f8c/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:roundIcon
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:14:7-52
+	android:icon
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:17:7-42
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.sayuru.MainActivity
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:18:7-29:18
+	android:screenOrientation
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:23:9-45
+	android:label
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:launchMode
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:22:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:21:9-86
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:19:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml:30:17-81
+uses-sdk
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [hermes-release.aar] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/bd2b42426ac5cb84e5a5a901b448ee3d/hermes-release/AndroidManifest.xml:5:5-44
+MERGED from [hermes-release.aar] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/bd2b42426ac5cb84e5a5a901b448ee3d/hermes-release/AndroidManifest.xml:5:5-44
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-27:41
+MERGED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-27:41
+MERGED from [:react-native-community_async-storage] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/checkbox/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/checkbox/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-mapbox-gl_maps] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-mapbox-gl_maps] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-mapbox-gl/maps/android/rctmgl/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-compass-heading] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-compass-heading/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-compass-heading] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-compass-heading/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-geolocation-service] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-get-random-values] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-get-random-values/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-get-random-values] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-get-random-values/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iap] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-iap/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iap] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-iap/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localization] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-localization/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-info] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-version-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-info] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-version-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f5272f2c50224ca2e68f40b32445d974/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f5272f2c50224ca2e68f40b32445d974/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5005b4f11b0e46dee589fa1747f27a29/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5005b4f11b0e46dee589fa1747f27a29/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base-support:1.3.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/98eebfdceea9df86a87a6ea3903a1607/animated-base-support-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base-support:1.3.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/98eebfdceea9df86a87a6ea3903a1607/animated-base-support-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b5931bc9bd495aa1ef59db9aecd53f95/animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b5931bc9bd495aa1ef59db9aecd53f95/animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5e0f09eb158ab0efe036b80d51785273/animated-webp-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5e0f09eb158ab0efe036b80d51785273/animated-webp-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b8526938e93a8d14478b6cf325635625/webpsupport-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b8526938e93a8d14478b6cf325635625/webpsupport-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fd8e650deb26d64ee2811d7205d3c42f/mapbox-android-plugin-annotation-v9-0.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fd8e650deb26d64ee2811d7205d3c42f/mapbox-android-plugin-annotation-v9-0.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/7a8bc23eaf9778a2b8c31880791a4ba9/mapbox-android-plugin-localization-v9-0.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/7a8bc23eaf9778a2b8c31880791a4ba9/mapbox-android-plugin-localization-v9-0.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d8b840458875ac4377660ba75a9431b9/mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-markerview-v9:0.4.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d8b840458875ac4377660ba75a9431b9/mapbox-android-plugin-markerview-v9-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-44
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/233cb2b96da0163abbb199d2803d2543/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/233cb2b96da0163abbb199d2803d2543/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d0a7c04af17363014a0cbcf76404feb4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d0a7c04af17363014a0cbcf76404feb4/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/8c1be27ef034b9b082bdd66b6db56cad/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/8c1be27ef034b9b082bdd66b6db56cad/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/814e2b08ffd38a3ae97eb1463d1ad6b3/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/814e2b08ffd38a3ae97eb1463d1ad6b3/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2520d3cc5bb7beccdb5b5e59ce09a2b8/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2520d3cc5bb7beccdb5b5e59ce09a2b8/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/650672f08f4a6c4195a6cd5578988028/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/650672f08f4a6c4195a6cd5578988028/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/85eea4399bec0c832096b1eaf2cbc382/animated-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/85eea4399bec0c832096b1eaf2cbc382/animated-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/c65f03c2595c3a48bb3e4b3982223817/animated-drawable-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/c65f03c2595c3a48bb3e4b3982223817/animated-drawable-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/24b2b193b461deb92970f249976f02e1/drawee-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/24b2b193b461deb92970f249976f02e1/drawee-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/c7455d7ac2d78a1213084c6f70096596/memory-type-native-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/c7455d7ac2d78a1213084c6f70096596/memory-type-native-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/604774e968c546cbe427c279c334abde/memory-type-java-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/604774e968c546cbe427c279c334abde/memory-type-java-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/26abeeb2356ae51c7014998d539d05d6/imagepipeline-native-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/26abeeb2356ae51c7014998d539d05d6/imagepipeline-native-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/aa86b43385de7322075690c7e7c22dc8/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/aa86b43385de7322075690c7e7c22dc8/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/65d0101136ee84f6c05406b213e98cdd/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/65d0101136ee84f6c05406b213e98cdd/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0bbf06a061ee6aa12e78021f2ed2f078/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0bbf06a061ee6aa12e78021f2ed2f078/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32cf165799aefa568b5aed22729963ea/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32cf165799aefa568b5aed22729963ea/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/3d7ae81d8830dbca508ba8f90940ce83/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/3d7ae81d8830dbca508ba8f90940ce83/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/748b8a95472f4a41e8e517b2d14a76e3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/748b8a95472f4a41e8e517b2d14a76e3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/480b2c6c5ee96705661bdf33ba70f331/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/480b2c6c5ee96705661bdf33ba70f331/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9248cf68301b394c4d01c0224c19caed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9248cf68301b394c4d01c0224c19caed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06cfbea489944606d146119aef69139a/mapbox-android-gestures-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.6.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06cfbea489944606d146119aef69139a/mapbox-android-gestures-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/786930e744b29244a174e05d55116b6f/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/786930e744b29244a174e05d55116b6f/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f19be8878fe913c21b0f7c289c7b3d92/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f19be8878fe913c21b0f7c289c7b3d92/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/16c1f8b65876ae048dc6e7257a06a793/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/16c1f8b65876ae048dc6e7257a06a793/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/db4d06c375dbf9eadf604e4afd2107eb/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/db4d06c375dbf9eadf604e4afd2107eb/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fca5355f0cd90f0896bbccb71c0f1faa/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fca5355f0cd90f0896bbccb71c0f1faa/firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ffb58ce5e027ffe6688fc183cf6cfac5/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ffb58ce5e027ffe6688fc183cf6cfac5/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/eaac7c70485d5c909e14aa8281575513/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/eaac7c70485d5c909e14aa8281575513/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5fd471fd21784b60c78b785b67741bbd/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5fd471fd21784b60c78b785b67741bbd/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0b0695c873d25dab8708045d6d22b11c/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0b0695c873d25dab8708045d6d22b11c/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/3cdda62fdfe620e776137e20fd57d5fd/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/3cdda62fdfe620e776137e20fd57d5fd/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b3a9b6e356e0c899ef287a8babd31899/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b3a9b6e356e0c899ef287a8babd31899/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fc407d907c2ea8140540db0b1ea7ea72/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fc407d907c2ea8140540db0b1ea7ea72/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f98d469c41efcfd22a7b74cc3f20c23c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/f98d469c41efcfd22a7b74cc3f20c23c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/6c886c86ea8d326b0f0b42b72e3267a9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/6c886c86ea8d326b0f0b42b72e3267a9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/12659bbe7837434c9610dce9beff2b5e/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/12659bbe7837434c9610dce9beff2b5e/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/11b7aa0b65ad9d5a79230fb486fe5157/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/11b7aa0b65ad9d5a79230fb486fe5157/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32ed3c170241901650dac031cefd1c0a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32ed3c170241901650dac031cefd1c0a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0b26e97decfb9e7370b8515c825b7a20/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0b26e97decfb9e7370b8515c825b7a20/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/88972527a15b4d1832989860f902c66a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/88972527a15b4d1832989860f902c66a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5a6e558f1073551a8fa951dfba811f8c/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/5a6e558f1073551a8fa951dfba811f8c/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fa45b4ff1db02d3f4137ab9b38414d0c/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/fa45b4ff1db02d3f4137ab9b38414d0c/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/098fb5a3b0e0e7bb59f8226d214f920a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/098fb5a3b0e0e7bb59f8226d214f920a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ceaa8978e704cd8499a8923262c58b62/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ceaa8978e704cd8499a8923262c58b62/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/37e7addbb8d5ba1221b41e029a0a3d5c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/37e7addbb8d5ba1221b41e029a0a3d5c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/28025663553d7951114986b0bae5ecc9/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/28025663553d7951114986b0bae5ecc9/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a2f5fcfbf50639077568c1a20f6074b3/mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a2f5fcfbf50639077568c1a20f6074b3/mapbox-android-accounts-0.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0da63107b95906a468634ce0e23e1f3b/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0da63107b95906a468634ce0e23e1f3b/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/6f3d2fd31552d465a9d0ccdf21c84209/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/6f3d2fd31552d465a9d0ccdf21c84209/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/27abddd9ff1f31eb3ceb2e45ad5ad792/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/27abddd9ff1f31eb3ceb2e45ad5ad792/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/4c41e8d852fd177447deb4191f4f1a41/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/4c41e8d852fd177447deb4191f4f1a41/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/57534bc96d8ba3dfd6dbeb480caf0181/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/57534bc96d8ba3dfd6dbeb480caf0181/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/bc405df8470d9e7ad521c628ec27126e/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/bc405df8470d9e7ad521c628ec27126e/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/706a65bb545b51f9bd76dd4538d281d7/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/706a65bb545b51f9bd76dd4538d281d7/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/45aa4ee81ec3d9f7ab5b5012a0a0e22c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/45aa4ee81ec3d9f7ab5b5012a0a0e22c/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ed72430cdf9f05f500336a908b1f1d75/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ed72430cdf9f05f500336a908b1f1d75/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/91d106573dd21b4b404ae16e8656ac29/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/91d106573dd21b4b404ae16e8656ac29/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/eae43307df8a7945139195c16a2d39b0/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/eae43307df8a7945139195c16a2d39b0/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d6f7aade6f887b7e41d053850d1a09fa/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d6f7aade6f887b7e41d053850d1a09fa/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a54e2b10f4b30ad9708bf90c52c6ee1a/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a54e2b10f4b30ad9708bf90c52c6ee1a/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a3e2c7e374c613449cd2aeb3ec1d8e09/memory-type-ashmem-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a3e2c7e374c613449cd2aeb3ec1d8e09/memory-type-ashmem-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/c38a6d0e7244f472563faef4b5b5465b/imagepipeline-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/c38a6d0e7244f472563faef4b5b5465b/imagepipeline-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/58b9164c02124451e29e533193177619/imagepipeline-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/58b9164c02124451e29e533193177619/imagepipeline-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d0edc340d01c292fb168e1a9ea23a1c9/jetified-fbcore-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d0edc340d01c292fb168e1a9ea23a1c9/jetified-fbcore-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9de7e9a84dc2230b522040a652250d9f/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9de7e9a84dc2230b522040a652250d9f/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9a6ce1a402f7425bf58501c1d4f589ab/logback-android-1.1.1-9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9a6ce1a402f7425bf58501c1d4f589ab/logback-android-1.1.1-9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1de5da52493973c2be6dbe05bef65263/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1de5da52493973c2be6dbe05bef65263/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b54c8105986836834eaa78d8bf505052/apktool-lib-1.4.4-5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/b54c8105986836834eaa78d8bf505052/apktool-lib-1.4.4-5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:ui-common:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ff1dfe6241e4816efb5087a59070cc15/ui-common-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/ff1dfe6241e4816efb5087a59070cc15/ui-common-2.1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/android/app/src/main/AndroidManifest.xml
+uses-permission#android.hardware.location
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:29:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-68
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:12:5-68
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:12:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:31:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-79
+MERGED from [:react-native-community_netinfo] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community_netinfo] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9de7e9a84dc2230b522040a652250d9f/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/9de7e9a84dc2230b522040a652250d9f/jetified-mapbox-android-core-3.0.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:32:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:35:22-86
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-94
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:36:22-91
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:37:22-78
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-77
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:38:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-78
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:39:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:40:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:40:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-77
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:41:22-74
+service#com.marianhello.bgloc.sync.SyncService
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:44:9-55:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:42:9-53:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:42:9-53:19
+	android:process
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:47:13-36
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-66
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:29
+action#android.content.SyncAdapter
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-70
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:49:25-67
+meta-data#android.content.SyncAdapter
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-54:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-52:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-52:55
+	android:resource
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:54:17-52
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:53:17-59
+service#com.marianhello.bgloc.sync.AuthenticatorService
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-64:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:54:9-62:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:54:9-62:19
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:56:18-80
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-59:29
+action#android.accounts.AccountAuthenticator
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:58:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-63:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-61:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-61:57
+	android:resource
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:63:17-54
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:62:17-69
+provider#com.marianhello.bgloc.data.provider.LocationContentProvider
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-70:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-68:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-68:39
+	android:authorities
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-75
+	android:syncable
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-87
+service#com.marianhello.bgloc.service.LocationServiceImpl
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:72:9-75:40
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:70:9-73:40
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:70:9-73:40
+	android:enabled
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:73:13-77
+service#com.marianhello.bgloc.react.headless.HeadlessService
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:76:9-79:40
+	android:enabled
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:78:13-35
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:77:13-80
+receiver#com.marianhello.bgloc.BootCompletedReceiver
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:81:9-88:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:75:9-82:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:75:9-82:20
+	android:enabled
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:83:13-35
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:82:13-71
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:85:13-87:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:86:17-79
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:86:25-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-111
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-108
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-39:45
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-42
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-84
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:70
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from [:react-native-image-picker] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/chanakaa/Documents/Projects/Consultation/Sayura/Sayuru app/Mobile/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2d9eaeb40e6b3920077974a81fd3c413/jetified-mapbox-android-sdk-9.1.0/AndroidManifest.xml:13:9-45
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:20:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:19:13-93
+service#com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:24:9-26:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:6.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/06dbbf34f3449d7280b8af73b49715c3/jetified-mapbox-android-telemetry-6.1.0/AndroidManifest.xml:25:13-93
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:37:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/802def742918b3e55e0c61af6ad5a9da/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/0e0bfe6af84174a80a60aa6de5cbb5ae/firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cae00b1ddd72d4621e1c808558b7b88a/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/160e25e6563c52fa11466a9c3b07cc4a/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/d1d6a1431b522e480635c162328cb17d/okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/1c5217a9d308d9fa8be785e7967b6ff4/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/32524791a741e435ecf0b7ebc4f31779/firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc74cb3fd51a19a55f735d48801514b8/play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/abbb067906276728c58f76ce70c7b491/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/cc8349111187c361fba95a715f374c57/firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/851f567f4d9b6ecf3810282d8edce00d/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/48f807eca768e18ddefea97b62790e09/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:17:9-20:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/2072768bfb2b63c62fc35fe44f3c5988/billing-3.0.0/AndroidManifest.xml:18:13-78
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/chanakaa/.gradle/caches/transforms-2/files-2.1/a03f8bd25c8b7d4330c56158043534c2/jetified-android-permissions-0.1.7/AndroidManifest.xml:13:13-83
